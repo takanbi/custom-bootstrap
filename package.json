@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "custom bootstarp starter project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "start"
   },
